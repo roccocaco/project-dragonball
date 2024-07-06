@@ -1,0 +1,26 @@
+.banner {
+  max-width: 100%;
+  width: 300px;
+  height: 300px;
+  object-fit: scale-down;
+}
+
+.movie {
+  max-width: 100%;
+  width: 300px;
+  height: 300px;
+  object-fit: contain;
+}
+
+.mais {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.doc {
+  max-width: 100%;
+  width: 300px;
+  height: 300px;
+  object-fit: contain;
+}

@@ -1,0 +1,25 @@
+.carousel-item img {
+  height: 500px;
+}
+
+.dragon {
+  height: 300px;
+}
+
+.card2 {
+  height: 320px;
+}
+
+.funko {
+  max-width: 100%;
+  width: 300px;
+  height: 300px;
+  object-fit: contain;
+}
+
+.banner {
+  max-width: 100%;
+  width: 300px;
+  height: 300px;
+  object-fit: scale-down;
+}
